@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oopWeek6-Studycase-AppleOrange", "oopWeek6-Studycase-AppleOrange\oopWeek6-Studycase-AppleOrange.csproj", "{6B9DB3A6-4A87-4101-AB44-F77E4F037215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B9DB3A6-4A87-4101-AB44-F77E4F037215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9DB3A6-4A87-4101-AB44-F77E4F037215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9DB3A6-4A87-4101-AB44-F77E4F037215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9DB3A6-4A87-4101-AB44-F77E4F037215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1911F4FE-FCC8-446A-80AB-9CA2259F6AA6}
+	EndGlobalSection
+EndGlobal
