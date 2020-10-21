@@ -6,6 +6,7 @@ namespace oopWeek6_Studycase_AppleOrange
 {
     class Fruit
     {
+        /777
         double cost;
         public double Cost
         {
